@@ -1,5 +1,5 @@
 # Meteo
-In this app, the current weather forecast of the user's place will be displayed.
+Meteo is an Android app that fetches weather info and forecasts from open-meteo service based on the user's GPS location. The app presents weather updates in an easily understandable format with an intuitive UI. It provides reliable and accurate weather information sourced from various sources, including meteorological stations and weather models. It is a useful app for anyone who needs to stay informed about the weather conditions in their area.
 
 ### Features
 - [x] Current weather data display
